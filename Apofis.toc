@@ -1,0 +1,8 @@
+## Title: |r[|cff0070deApofis|r]
+## Notes: Apofis framework for Apep 10.1.7.
+## Interface: 90207
+## Author: MoRBiDuS
+## SavedVariables: _GDATA
+## SavedVariablesPerCharacter: _ADATA
+
+files.xml

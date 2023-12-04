@@ -1,0 +1,42 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<!-- WARRIOR -->
+	<!-- <script file="Warrior\Fury.lua" /> -->
+	<!-- <script file="Warrior\Protection.lua" /> -->
+	
+	<!-- PALADIN -->
+	<!-- <script file="Paladin\holy.lua" />	 -->
+	
+	<!-- HUNTER -->
+	<!-- <script file="Hunter\Beast_Mastery.lua" /> -->
+	
+	<!-- ROGUE -->
+	<!-- <script file="Rogue\Assassination.lua" /> -->
+	
+	<!-- PRIEST -->
+	<!-- <script file="Priest\Holy.lua" /> -->
+	
+	<!-- DEATH KNIGHT -->
+	<!-- <script file="DeathKnight\blood.lua" /> -->
+	
+	<!-- SHAMAN -->
+	<!-- <script file="Shaman\Elemental.lua" /> -->	
+	
+	<!-- MAGE -->
+	<!-- <script file="Mage\Frost.lua" /> -->		
+	
+	<!-- WARLOCK -->
+	<!-- <script file="Warlock\Affliction.lua" /> -->
+	
+	<!-- MONK -->
+	<!-- <script file="Monk\Windwalker.lua" /> -->	
+	
+	<!-- DRUID -->
+	<!-- <script file="Druid\Feral.lua" /> -->
+	
+	<!-- DEMON HUNTER -->
+	<!-- <script file="DemonHunter\Havoc.lua" /> -->
+
+	<!-- EVOKER -->
+	<!-- <script file="Evoker\Devastation.lua" /> -->
+</Ui>
